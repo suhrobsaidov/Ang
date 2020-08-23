@@ -1,0 +1,20 @@
+td{
+  background: lightgoldenrodyellow;
+  padding: 6px;
+  text-align: center;
+}
+th{
+  background: aqua;
+  color: black;
+  text-align: center;
+}
+button{
+  height: 40px;
+  width: 120px;
+  background: red;
+  color: black;
+}
+input{
+  height: 40px;
+  width: 500px;
+}
